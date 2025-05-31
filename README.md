@@ -1,3 +1,20 @@
+# Hoverable Sidenav Buttons (HTML + CSS)
+
+This project demonstrates a simple yet interactive **hoverable side navigation bar** using only HTML and CSS. When you hover over the buttons on the left side, they smoothly slide out into view.
+
+## 🚀 Features
+
+- Four color-coded vertical buttons (Green, Blue, Red, Gray)
+- Smooth slide-in animation on hover
+- Pure HTML and CSS (no JavaScript required)
+- Demonstrates absolute positioning and CSS transitions
+
+## 🖥️ How It Works
+
+- Buttons are placed off-screen using `left: -100px`
+- On hover, `left: 0` brings the button into view
+- Each button has a unique `top` value and background color
+
 Login Window UI - HTML/CSS
 This project contains two HTML files that demonstrate styled login window interfaces using HTML and CSS. Each version showcases different design features and layout customizations.
 
